@@ -1,11 +1,23 @@
-### Olá! 👋, eu sou Willie Soares
+# Bem Vindo!
 
+ 
 
-- 🔭 Eu estou estudando atualmente  para conseguir meu lugar no ramo de desenvolvedor!
-- 🌱 Estou aprendendo atualmente a linguagem JavaScript e Java!
-- 👯 Eu sou do Brasil!
-- 🤔 Estou  busca de  meu primeiro emprego no ramo de desenvolvedor !
-- 📫 Você me encontra aqui: https://github.com/WillieSoares21
--->
+## Eu sou Willie Soares!
 
-code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+ 
+
+:computer: Eu sou Desenvolvedor Back-End!
+
+:house_with_garden: Eu sou do Brazil.
+
+:books: Estou estudando atualmente Javascript e Java.
+
+:outbox_tray: 2021 Goals: Criar um novo projeto e achar um emprego.
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link= https://github.com/WillieSoares21)]
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/williesoares)]
