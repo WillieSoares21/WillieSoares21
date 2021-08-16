@@ -2,7 +2,7 @@
 
  
 
-## Olá Sou Willie Sores
+## Olá Sou Willie Soares
 
 
 
@@ -14,7 +14,9 @@
 
 :outbox_tray: 2021 Goals: Criar um novo projeto e achar um emprego.
 
+ #Se Puderem me ajudar com doacões para meus estudos, desde já fico agradecido! Link abaixo!
  
+<noscript><a href="https://liberapay.com/WillieSoaresDev/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## About me
 
