@@ -14,15 +14,12 @@
 
 :outbox_tray: 2021 Goals: Criar um novo projeto e achar um emprego.
 
- #Se Puderem me ajudar com doacões para meus estudos, desde já fico agradecido! Link abaixo!
  
-<noscript><a href="https://liberapay.com/WillieSoaresDev/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillieSoares21)]()
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williesoares )]_()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williesoares )]
 
 
 
